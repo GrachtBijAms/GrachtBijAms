@@ -117,7 +117,7 @@
       .hero-content {
         position: relative;
         z-index: 2;
-        max-width: 760px;
+        max-width: min(1080px, 90vw);
       }
 
       .hero-tag {
@@ -145,11 +145,13 @@
       }
       h1 .line1 { display: block; color: var(--text); }
       h1 .line2 {
-        display: block;
+        display: inline-block;
         background: linear-gradient(135deg, var(--accent), var(--accent2));
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         background-clip: text;
+        max-width: 100%;
+        word-break: break-word;
       }
 
       .hero-desc {
@@ -642,6 +644,7 @@
             <span class="skill-tag">Robot Framework</span>
             <span class="skill-tag">REST Assured</span>
             <span class="skill-tag">TestNG</span>
+            <span class="skill-tag">Provar</span>
             <span class="skill-tag">Jenkins</span>
           </div>
         </div>
@@ -671,6 +674,7 @@
           <div class="progress-items">
             <div class="progress-item">
               <div class="progress-header">
+
                 <span class="progress-name">Playwright</span>
                 <span class="progress-pct">75%</span>
               </div>
