@@ -379,7 +379,20 @@
       /* Progress bars */
       .progress-items { display: flex; flex-direction: column; gap: 1rem; }
 
-      .progress-item { }
+    .progress-item {
+      padding: 0.5rem 0.6rem;
+      border-radius: 6px;
+      transition: background 0.25s;
+    }
+    .progress-item:hover {
+      background: rgba(0, 212, 255, 0.05);
+    }
+    .progress-item:hover .progress-name {
+      color: var(--accent);
+    }
+    .progress-item:hover .progress-fill {
+      filter: brightness(1.25) drop-shadow(0 0 5px rgba(0,212,255,0.6));
+    }
       .progress-header {
         display: flex;
         justify-content: space-between;
