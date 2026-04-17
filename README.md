@@ -50,7 +50,7 @@
 
 | Repository | Description | Tech |
 |---|---|---|
-| [SeleniumJava](https://github.com/GrachtBijAms/SeleniumJava) | UI Test Automation Framework | Java, Selenium |
+| [SeleniumJava](https://github.com/GrachtBijAms/SeleniumFrameworkSDET) | UI Test Automation Framework | Java, Selenium |
 | [playwrightJS](https://github.com/GrachtBijAms/playwrightJS) | Modern Web Testing with Playwright | JavaScript, Playwright |
 | [RobotFramework](https://github.com/GrachtBijAms/RobotFramework) | Keyword-driven Test Automation | Robot Framework |
 | [RestAssured](https://github.com/GrachtBijAms/RestAssured) | API Testing Framework | Java, REST Assured |
