@@ -54,7 +54,7 @@
 | [playwrightJS](https://github.com/GrachtBijAms/playwrightJS) | Modern Web Testing with Playwright | JavaScript, Playwright |
 | [RobotFramework](https://github.com/GrachtBijAms/RobotFramework) | Keyword-driven Test Automation | Robot Framework |
 | [RestAssured](https://github.com/GrachtBijAms/RestAssured) | API Testing Framework | Java, REST Assured |
-| [Locust] (https://github.com/GrachtBijAms/Locust)| Modern Performance Testing framework | Python, Playwright
+| [Locust](https://github.com/GrachtBijAms/Locust)| Modern Performance Testing framework | Python, Playwright
 
 ---
 
