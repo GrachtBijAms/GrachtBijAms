@@ -6,18 +6,31 @@
     <title>SDET & Salesforce Admin</title>
     <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Syne:wght@400;600;800&display=swap" rel="stylesheet"/>
     <style>
-      :root {
-        --bg: #0a0c10;
-        --surface: #111318;
-        --border: #1e2330;
-        --accent: #00d4ff;
-        --accent2: #7c3aed;
-        --accent3: #10b981;
-        --text: #e2e8f0;
-        --muted: #64748b;
-        --mono: 'Space Mono', monospace;
-        --sans: 'Syne', sans-serif;
-      }
+
+        :root {
+  --bg: #0a0c10;
+  --surface: #111318;
+  --border: #1e2330;
+  --accent: #00d4ff;
+  --accent2: #7c3aed;
+  --accent3: #10b981;
+  --text: #e2e8f0;
+  --muted: #64748b;
+  --mono: 'Space Mono', monospace;
+  --sans: 'Syne', sans-serif;
+}
+
+.light-mode {
+  --bg: #ffffff;
+  --surface: #f8fafc;
+  --border: #e2e8f0;
+  --accent: #0066cc;
+  --accent2: #7c3aed;
+  --accent3: #10b981;
+  --text: #111111;
+  --muted: #64748b;
+}
+
 
       * { margin: 0; padding: 0; box-sizing: border-box; }
 
@@ -30,6 +43,19 @@
         overflow-x: hidden;
         cursor: none;
       }
+        .theme-toggle {
+    top: 1rem;
+    right: 1rem;
+    z-index: 1000;
+    padding: 0.5rem 1rem;
+    border: 1px solid currentColor;
+    background: transparent;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    font-size: 0.9rem;
+    color: inherit;
+    outline: none;
+  }
 
       /* Custom cursor */
       .cursor {
@@ -54,6 +80,12 @@
         transition: transform 0.15s ease-out, width 0.3s, height 0.3s;
         opacity: 0.5;
       }
+
+      .light-mode .cursor,
+.light-mode .cursor-ring {
+  background: var(--accent);
+  border-color: var(--accent);
+}
 
       /* Grid noise overlay */
       body::before {
@@ -582,10 +614,12 @@
     <nav>
       <div class="nav-logo"><span>~/</span>Prathamesh</div>
       <ul class="nav-links">
+        
         <li><a href="#about">About</a></li>
         <li><a href="#skills">Skills</a></li>
         <li><a href="#projects">Projects</a></li>
         <li><a href="https://github.com/GrachtBijAms" target="_blank">GitHub ↗</a></li>
+        <li><a class="theme-toggle" id="theme-toggle">Dark Mode</a></li>
       </ul>
     </nav>
 
@@ -851,6 +885,21 @@
       }, { threshold: 0.15 });
 
       document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+    
+
+const toggle = document.getElementById("theme-toggle");
+
+// Default to dark
+document.documentElement.classList.remove("light-mode");
+toggle.textContent = "Light Mode";
+
+toggle.addEventListener("click", () => {
+  const isLight = document.documentElement.classList.toggle("light-mode");
+  toggle.textContent = isLight ? "Dark Mode" : "Light Mode";
+});
+
+
+
     </script>
   </body>
   </html>
