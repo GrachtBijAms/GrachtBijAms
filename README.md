@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Prathamesh 👋</h1>
-<h3 align="center">SDET | Salesforce Administrator </h3>
+<h3 align="center">SDET | Salesforce Administrator | Based in Amsterdam 🇳🇱</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GrachtBijAms&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -50,10 +50,11 @@
 
 | Repository | Description | Tech |
 |---|---|---|
-| [SeleniumJava](https://github.com/GrachtBijAms/SeleniumFrameworkSDET) | UI Test Automation Framework | Java, Selenium |
+| [SeleniumJava](https://github.com/GrachtBijAms/SeleniumJava) | UI Test Automation Framework | Java, Selenium |
 | [playwrightJS](https://github.com/GrachtBijAms/playwrightJS) | Modern Web Testing with Playwright | JavaScript, Playwright |
 | [RobotFramework](https://github.com/GrachtBijAms/RobotFramework) | Keyword-driven Test Automation | Robot Framework |
 | [RestAssured](https://github.com/GrachtBijAms/RestAssured) | API Testing Framework | Java, REST Assured |
+| [Locust] (https://github.com/GrachtBijAms/Locust)| Modern Performance Testing framework | Python, Playwright
 
 ---
 
