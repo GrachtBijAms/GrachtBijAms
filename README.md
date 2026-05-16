@@ -55,6 +55,7 @@
 | [RobotFramework](https://github.com/GrachtBijAms/RobotFramework) | Keyword-driven Test Automation | Robot Framework |
 | [RestAssured](https://github.com/GrachtBijAms/RestAssured) | API Testing Framework | Java, REST Assured |
 | [Locust](https://github.com/GrachtBijAms/Locust)| Modern Performance Testing framework | Python, Playwright
+| [Pytest](https://github.com/GrachtBijAms/pytest-framework)| A Pytest framework for UI and API| Python, Playwright
 
 ---
 
