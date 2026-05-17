@@ -25,7 +25,7 @@
 ![RestAssured](https://img.shields.io/badge/REST%20Assured-6DB33F?style=for-the-badge&logo=java&logoColor=white)
 
 ### CI/CD
-![Playwright CI](https://github.com/GrachtBijAms/playwrightJS/actions/workflows/ci.yml/badge.svg)
+![CI/CD](https://img.shields.io/badge/CI%20&%20CD-2EAD33?style=for-the-badge&logo=developmentcontainers&logoColor=white)
 
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
