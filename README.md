@@ -24,6 +24,9 @@
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
 ![RestAssured](https://img.shields.io/badge/REST%20Assured-6DB33F?style=for-the-badge&logo=java&logoColor=white)
 
+### CI/CD
+![Playwright CI](https://github.com/GrachtBijAms/playwrightJS/actions/workflows/ci.yml/badge.svg)
+
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
