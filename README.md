@@ -43,7 +43,8 @@
 ## 🚀 Current Focus
 
 ```text
-🎭  Playwright       ████████████░░░░   75%
+🤖  Learning LLM Evals        ██████░░░░░░░░░░   35%
+🎭  Playwright                ████████████░░░░   75%
 ☁️  Salesforce Administration ███████████████░   90%
 🧪 Test Automation (Selenium) ████████████████  95%
 🔗 API Testing (REST Assured) █████████████░░░   80%
