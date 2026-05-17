@@ -50,7 +50,7 @@
 ## 🚀 Current Focus
 
 ```text
-🎭  Playwright                ████████████████  100%
+🎭  Playwright                ██████████████░░   85%
 ☁️  Salesforce Administration ███████████████░   90%
 🧪  Selenium Java             ████████████████   95%
 🔗  API Testing               █████████████░░░   80%
