@@ -9,9 +9,9 @@
 
 ## 👨‍💻 About Me
 
-- 🔍 I'm an **SDET (Software Development Engineer in Test)** and **Salesforce Administrator** with a passion for building robust, scalable test automation frameworks.
-- 🌱 Currently deepening my expertise in **Playwright** for modern web test automation.
-- 🏙️ Based in the heart of **Amsterdam** — where great software meets beautiful canals.
+- 🔍 I'm an **SDET** and **Salesforce Administrator** passionate about building robust, scalable test automation frameworks.
+- 🎭 Currently working with **Playwright**, **pytest**, and **Locust** for modern web, API, and performance testing.
+- 🏙️ Based in **Amsterdam** — where great software meets beautiful canals.
 - 🎮 Tech-savvy gamer when I'm not writing test scripts.
 
 ---
@@ -22,20 +22,23 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
-![RestAssured](https://img.shields.io/badge/REST%20Assured-6DB33F?style=for-the-badge&logo=java&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST%20Assured-6DB33F?style=for-the-badge&logo=java&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Locust](https://img.shields.io/badge/Locust-4CAF50?style=for-the-badge&logo=python&logoColor=white)
 
-### CI/CD
-![CI/CD](https://img.shields.io/badge/CI%20&%20CD-2EAD33?style=for-the-badge&logo=developmentcontainers&logoColor=white)
+### ⚙️ CI/CD
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ☁️ Salesforce
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Provar](https://img.shields.io/badge/Provar-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ---
@@ -43,11 +46,11 @@
 ## 🚀 Current Focus
 
 ```text
-🤖  Learning LLM Evals        ██████░░░░░░░░░░   35%
-🎭  Playwright                ████████████░░░░   75%
+🎭  Playwright                ████████████████  100%
 ☁️  Salesforce Administration ███████████████░   90%
-🧪 Test Automation (Selenium) ████████████████  95%
-🔗 API Testing (REST Assured) █████████████░░░   80%
+🧪  Selenium Java             ████████████████   95%
+🔗  API Testing               █████████████░░░   80%
+🐍  Python / pytest / Locust  ████████████░░░░   75%
 ```
 
 ---
@@ -56,12 +59,12 @@
 
 | Repository | Description | Tech |
 |---|---|---|
-| [Selenium Java](https://github.com/GrachtBijAms/SeleniumFrameworkSDET) | UI Test Automation Framework | Java, Selenium |
-| [playwrightJS](https://github.com/GrachtBijAms/playwrightJS) | Modern Web Testing with Playwright | JavaScript, Playwright |
+| [SeleniumJava](https://github.com/GrachtBijAms/SeleniumJava) | UI Test Automation Framework with POM | Java, Selenium, TestNG |
+| [playwrightJS](https://github.com/GrachtBijAms/playwrightJS) | Modern E2E Testing with Playwright | JavaScript, Playwright |
 | [RobotFramework](https://github.com/GrachtBijAms/RobotFramework) | Keyword-driven Test Automation | Robot Framework |
 | [RestAssured](https://github.com/GrachtBijAms/RestAssured) | API Testing Framework | Java, REST Assured |
-| [Locust](https://github.com/GrachtBijAms/Locust)| Modern Performance Testing framework | Python, Playwright
-| [Pytest](https://github.com/GrachtBijAms/pytest-framework)| A Pytest framework for UI and API| Python, Playwright
+| [Locust](https://github.com/GrachtBijAms/Locust) | Performance Testing Framework | Python, Playwright |
+| [pytest-framework](https://github.com/GrachtBijAms/pytest-framework) | UI and API Testing with pytest | Python, pytest |
 
 ---
 
@@ -80,6 +83,9 @@
 <p align="left">
   <a href="https://github.com/GrachtBijAms">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://grachtbijams.github.io/GrachtBijAms/">
+    <img src="https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logoColor=black" />
   </a>
 </p>
 
