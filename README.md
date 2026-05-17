@@ -23,6 +23,8 @@
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
 ![RestAssured](https://img.shields.io/badge/REST%20Assured-6DB33F?style=for-the-badge&logo=java&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Locust](https://img.shields.io/badge/Locust-4CAF50?style=for-the-badge&logo=python&logoColor=white)
 
 ### CI/CD
 ![CI/CD](https://img.shields.io/badge/CI%20&%20CD-2EAD33?style=for-the-badge&logo=developmentcontainers&logoColor=white)
@@ -41,7 +43,7 @@
 ## 🚀 Current Focus
 
 ```text
-🎭 Learning Playwright       ████████████░░░░   75%
+🎭  Playwright       ████████████░░░░   75%
 ☁️  Salesforce Administration ███████████████░   90%
 🧪 Test Automation (Selenium) ████████████████  95%
 🔗 API Testing (REST Assured) █████████████░░░   80%
